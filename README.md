@@ -25,7 +25,7 @@ Optional die LEDS und Widerstände
 Abmaße der Platine 52 x 29mm 
 
 
-[Gehäuse] ( https://www.thingiverse.com/thing:3350531)
+[Gehäuse](https://www.thingiverse.com/thing:3350531)
 
 ![complete](Images/1.jpg)
 
