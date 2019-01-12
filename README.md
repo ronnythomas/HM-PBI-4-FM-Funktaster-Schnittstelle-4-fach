@@ -49,6 +49,9 @@ HM-SCI-3-FM - Mit geänderter Software auf 4 Schaltkontakte
 **Passt in eine tiefe Unterputzdose incl. Schalter:)**
 ![complete](Images/5.jpg)
 
+![complete](Images/6.jpg)
+
+
 
 HM-SCI-3-FM
 Übertragungsmodus auf Standard stellt da im Sketch keine AES Verschlüsselung aktiviert ist!
