@@ -8,7 +8,10 @@
 * 1x Batteriehalter print für CR2032 **[Reichelt KZH 20P](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-print-kzh-20p-p56575.html?&trstct=pos_0)** oder [EBAY](https://www.ebay.de/itm/CR2012-2032-Knopfzellenhalter-max-20-mm-Silber-Printmontage-horizontal-2/253806533551?hash=item3b180c5baf:g:IOUAAOSwtlZb0KwD:rk:2:pf:0)
 * 1x Batterie CR2032
 * 1x Platinensteckverbinder gerade, braun, 5-polig [**Reichelt PS 25/5G BR**](https://www.reichelt.de/platinensteckverbinder-gerade-braun-5-polig-ps-25-5g-br-p40400.html?)
-Optional die LEDS und Widerstände **Verringert die Batterielaufzeit**
+
+
+Optional die LEDS und Widerstände 
+**Verringert die Batterielaufzeit**
 * 2x Widerstand 330 Ohm
 * 2x LED 3mm
 
