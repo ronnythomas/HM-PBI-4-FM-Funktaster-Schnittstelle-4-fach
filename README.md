@@ -15,11 +15,9 @@ Optional die LEDS und Widerstände **Verringert die Batterielaufzeit**
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
 [Software HM-PBI-4-FM Funktaster-Schnittstelle 4-fach ](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-PBI-4-FM/HM-PBI-4-FM.ino) von Jérôme
+
 [Software HM-SCI-3-FM Kontakt-Interface für Öffner und Schließerkontake ](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-SCI-3-FM/HM-SCI-3-FM.ino) von Jérôme
 
-HM-SCI-3-FM
-Übertragungsmodus auf Standard stellt da im Sketch keine AES Verschlüsselung aktiviert ist!
-![complete](https://asksinpp.de/assets/img/paniktaster_config.98b7fbc5.png)
 
 
 ![complete](Images/1.jpg)
@@ -31,6 +29,10 @@ HM-SCI-3-FM
 HM-SCI-3-FM - Mit geänderter Software auf 4 Schaltkontakte
 ![complete](Images/4.jpg)
 
+
+HM-SCI-3-FM
+Übertragungsmodus auf Standard stellt da im Sketch keine AES Verschlüsselung aktiviert ist!
+![complete](https://asksinpp.de/assets/img/paniktaster_config.98b7fbc5.png)
 
 
 [Bitte vergesst das BOD Flashen des Arduinos nicht!](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html)
