@@ -1,4 +1,4 @@
-# HM-SCI-3-FM Funkschaler-Schnittstelle 3-fach
+﻿# HM-SCI-3-FM Funkschaler-Schnittstelle 3-fach
 # evt. auch HM-PBI-4-FM Funktaster-Schnittstelle 4-fach
 ## benötigte Hardware
  * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
@@ -23,6 +23,9 @@ Optional die LEDS und Widerstände
 [Software HM-SCI-3-FM Kontakt-Interface für Öffner und Schließerkontake ](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-SCI-3-FM/HM-SCI-3-FM.ino) von Jérôme
 
 Abmaße der Platine 52 x 29mm 
+
+
+[Gehäuse] ( https://www.thingiverse.com/thing:3350531)
 
 ![complete](Images/1.jpg)
 
