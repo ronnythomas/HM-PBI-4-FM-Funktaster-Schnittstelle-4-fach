@@ -53,3 +53,7 @@ HM-SCI-3-FM
 
 
 [Bitte vergesst das BOD Flashen des Arduinos nicht!](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html)
+
+Da bei Batteriebetrieb mit 3V der Spannungsregler (LDO) nicht benötigt wird und auch die Power LED sowie die LED_BUILTIN nur unnötig Strom verbrauchen, können diese Bauteile (X) ganz unproblematisch entfernt werden.
+![complete](https://asksinpp.de/assets/img/arduino-pro-mini-removed-parts.f97cd75b.jpg)
+
