@@ -1,5 +1,5 @@
 ﻿# HM-PBI-4-FM Funktaster-Schnittstelle 4-fach
-# evt. auch HM-SCI-3-FM Funkschaler-Schnittstelle 3-fach
+# auch HM-SCI-3-FM Funkschaler-Schnittstelle 3-fach Nutzbar mit anderer Spannungsversorgung
 ## benötigte Hardware
  * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
  * 1x CC1101 Funkmodul **(868 MHz)**
