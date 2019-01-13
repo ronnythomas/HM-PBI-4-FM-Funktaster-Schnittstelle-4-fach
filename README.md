@@ -24,6 +24,7 @@ Optional die LEDS und Widerstände
 
 Abmaße der Platine 52 x 29mm 
 
+**ACHTUNG beim HM-SCI-3-FM ist der Stomverbrauch höher was zu lasten der Laufzeit geht, bei verwendung des Sketch auf 2 AA oder AAA Zellen ausweichen!**
 
 [Gehäuse](https://www.thingiverse.com/thing:3350531)
 
